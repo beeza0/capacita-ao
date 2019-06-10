@@ -1,5 +1,7 @@
 txt.txt
 hello world
 !@#$%
+opaaaaaaa
+-------
 oooa
 abcd
