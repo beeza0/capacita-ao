@@ -2,3 +2,4 @@ txt.txt
 hello world
 !@#$%
 ta mt frio pra continuar
+bora tomar um coco
